@@ -1,2 +1,2 @@
 # mlmol_files
-files for mlmol
+My assignments and final project from the cours Machine Learning and Molecules (MLmol) at the University of Copenhagen.
